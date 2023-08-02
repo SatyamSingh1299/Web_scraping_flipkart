@@ -1,6 +1,7 @@
 # Web_scraping_flipkart
 Q1: Create Your own filter and reduce function same as real filter and
 reduce function?
+
 Q2: Move Files from one folder to another folder. By using Python. And
 create empty files using python.
 Q3: Delete files if the files are present in the folder otherwise pass.
